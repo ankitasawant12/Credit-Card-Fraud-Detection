@@ -1,4 +1,5 @@
 # Credit-Card-Fraud-Detection
+# Facts about data
 
  * The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 * Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. 
