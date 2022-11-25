@@ -14,4 +14,4 @@
 * Model creation
 
 # Motivation and purpose of the project
-As we know fraud trasaction can cause penulties to the customers that they did not purchase so this model will help to know tha fraud transactions. 
+As we know fraud trasaction can cause penulties to the customers that they did not purchase so this model will help to know the fraud transactions. 
